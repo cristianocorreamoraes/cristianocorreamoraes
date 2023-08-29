@@ -5,7 +5,9 @@ Bem vindo! 🙋‍♂️
 Eu sou o professor Cristiano Correa de Moraes.
 
 Leciono as disciplinas:
-Programação front-end
-Programação back-end
-Programação mobile
-Banco de dados
+💻 Programação front-end <br>
+🖥️ Programação back-end <br>
+📱 Programação mobile <br>
+📅 Banco de dados <br>
+
+<hr>
