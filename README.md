@@ -21,7 +21,7 @@ Minhas redes:
 Minhas estatisticas:
 
 [![cristianocorreamoraes GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianocorreamoraes&theme=cobalt)](https://github.com/cristianocorreamoraes/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianocorreamoraes&layout=pie)](https://github.com/cristianocorreamoraes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianocorreamoraes&layout=pie&theme=cobalt)](https://github.com/cristianocorreamoraes/github-readme-stats)
 
 <hr>
 
