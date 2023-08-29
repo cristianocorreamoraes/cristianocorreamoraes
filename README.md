@@ -22,3 +22,5 @@ Minhas estatisticas:
 
 [![cristianocorreamoraes GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianocorreamoraes)](https://github.com/cristianocorreamoraes/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianocorreamoraes&layout=compact)](https://github.com/cristianocorreamoraes/github-readme-stats)
+
